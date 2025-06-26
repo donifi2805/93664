@@ -1,11 +1,20 @@
 [
   {
     "username": "donitata1717",
-    "password": "wasalamL050"
+    "nomor_whatsapp": "6281234567890",
+    "password": "wasalamL050",
+    "device_id": "0c0e17a3fabe4722"
   },
   {
-    "username": "user1",
-    "password": "abcdef"
+    "username": "user_kedua",
+    "nomor_whatsapp": "6289876543210",
+    "password": "sandi_lain_456",
+    "device_id": "DEF-456-UVW"
+  },
+  {
+    "username": "user_ketiga",
+    "nomor_whatsapp": "6285555555555",
+    "password": "password_aman_789",
+    "device_id": "GHI-789-RST"
   }
 ]
-
